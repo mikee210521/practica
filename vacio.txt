@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aqui se iindican cosas nuiecas del espacioo en master.
 
 
@@ -6,4 +7,6 @@ aqui se iindican cosas nuiecas del espacioo en master.
 
 
 
+=======
+>>>>>>> cabecera
 en este espacio se puede lograr cosas diferentes
